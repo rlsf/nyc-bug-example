@@ -11,9 +11,6 @@ pids
 *.seed
 *.pid.lock
 
-# mocha config
-mocha-config.json
-
 # mocha output
 xunit.xml
 
